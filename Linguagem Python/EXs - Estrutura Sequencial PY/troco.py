@@ -1,0 +1,5 @@
+preco = float(input("Preço unitário do produto: "))
+quant = int(input("Quantidade comprada: "))
+dinheiroRecebido = float(input("Dinheiro recebido: "))
+troco = dinheiroRecebido - (preco*quant)
+print(f"Troco = {troco:.2f}")
