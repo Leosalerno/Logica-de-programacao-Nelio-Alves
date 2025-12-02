@@ -1,2 +1,2 @@
 # Curso Logica de programaçao Nelio Alves
-Curso Udemy Logica
+Curso Udemy Logica de programaçao
